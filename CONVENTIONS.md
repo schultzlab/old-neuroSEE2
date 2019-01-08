@@ -10,6 +10,7 @@
 - [Names](#names)
     - [Variable And Functions](#variable-and-functions)
     - [Classes](#classes)
+    - [Constants](#constants)
 
 <!-- /MarkdownTOC -->
 
