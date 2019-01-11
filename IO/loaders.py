@@ -3,8 +3,7 @@ from scipy.io import loadmat
 
 
 def load_tiff(path):
-    """
-    Loading a .tiff file using the scikit-image `io.imread()` function
+    """Loads a .tiff file using the scikit-image `io.imread()` function
 
     Args:
         path (str): The path of the .tiff file to load.
