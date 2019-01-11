@@ -10,11 +10,13 @@ Welcome to NeuroSEE2's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   modules
+
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
+* :ref:`py-modindex`
 * :ref:`search`
