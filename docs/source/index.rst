@@ -6,17 +6,37 @@
 Welcome to NeuroSEE2's documentation!
 =====================================
 
+.. contents:: :local:
+   :depth: 2
+
+
+
+
+
+
+Introduction
+------------
+
+
+
+
+Getting started
+---------------
+
+
+
+API Reference
+-------------
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    modules
-
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`py-modindex`
+* :ref:`modindex`
 * :ref:`search`
