@@ -19,6 +19,15 @@ def load_tiff(path):
 
 
 def load_mat(path):
+    """Loads a .mat file using the `scipy.io.loadmat()` function
+
+        Args:
+            path (str): The path of the .mat file to load.
+
+        Returns:
+            ndarray: A dictionary with the image as a matrix and where the key is whatever the variable name was saved
+            as in Matlab.
+        """
     mat = loadmat(path)
 
     return mat
